@@ -1,0 +1,31 @@
+*
+/*{
+	background-image: url(http://sierrafleet.com/construction.jpg);
+}*/
+
+{
+	background-color: #000;
+}
+
+
+	BODY.landing{
+		background-color: #fee
+	}
+
+	IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+
+    P.NAV {
+    margin-left: auto;
+    margin-right: auto;
+    width: 25em
+}
+
+	TABLE.HW {
+	/*display: block;*/
+    margin-left: auto;
+    margin-right: auto
+}
